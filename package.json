@@ -1,0 +1,19 @@
+{
+  "name": "0507hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skochk/1806hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skochk/1806hw/issues"
+  },
+  "homepage": "https://github.com/skochk/1806hw#readme"
+}
